@@ -111,7 +111,7 @@
         <div class="footer">
             <p>
                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                Kelompok 7 <script>
+                Tubes TEKWEB <script>
                     document.write(new Date().getFullYear());
                 </script> | 3411211075 <i  aria-hidden="true"></i>
 				<script>

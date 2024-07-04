@@ -54,7 +54,7 @@
             <div class="col-md-12 col-sm-12 text-center mt-5 mb-3">
                 <img src="<?= base_url('assets/img/login.png'); ?>" class="login" />
                 <h3 class="text-white mt-2">Aplikasi Stok Barang</h3>
-<br><center><p>Repost by <a target='_blank'> Kelompok 7 </a></p></center>
+<br><center><p>Tubes Tekweb <a target='_blank'> 3411211075 - 3411211094 - 3411211104 - 3411211105 </a></p></center>
 
                 <?php
                 if ($this->session->flashdata('alert')) {
@@ -92,10 +92,6 @@
                     <div class="clearfix"></div>
                     <?= form_close(); ?>
                 </div>
-                <p class="text-white text-center">Copyright &copy;<script>
-                        document.write(new Date().getFullYear());
-                    </script> All rights reserved
-                </p>
             </div>
         </div>
     </div>
